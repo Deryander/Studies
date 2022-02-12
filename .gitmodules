@@ -1,0 +1,6 @@
+[submodule "work/2021-2022/MathMod/laboratory/lab01/hello"]
+	path = work/2021-2022/MathMod/laboratory/lab01/hello
+	url = https://github.com/Deryander/hello.git
+[submodule "work/2021-2022/MathMod/laboratory/lab01/cloned_hello"]
+	path = work/2021-2022/MathMod/laboratory/lab01/cloned_hello
+	url = https://github.com/Deryander/cloned_hello.git
